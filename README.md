@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farman
-- 👀 I’m interested in programming,hacking
+- 👀 I’m interested in programming,hacking,Editing
 - 🌱 I’m currently learning python,c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
